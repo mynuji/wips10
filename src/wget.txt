@@ -1,0 +1,10 @@
+--2020-10-05 00:02:28--  http://192.168.0.4:8888/allow
+Connecting to 192.168.0.4:8888... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3354 (3.3K) [application/json]
+Saving to: ‘allow_ap.json.tmp’
+
+     0K ...                                                   100%  118M=0s
+
+2020-10-05 00:02:28 (118 MB/s) - ‘allow_ap.json.tmp’ saved [3354/3354]
+
